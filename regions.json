@@ -1,0 +1,4433 @@
+[
+  {
+    "month": "2022-12",
+    "shipping_region": "Oregon",
+    "orders": 6,
+    "gross_sales": 2840,
+    "id": 41
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "New Jersey",
+    "orders": 66,
+    "gross_sales": "40003,6",
+    "id": 34
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Virginia",
+    "orders": 21,
+    "gross_sales": "14157,8",
+    "id": 51
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Sinaloa",
+    "orders": 1,
+    "gross_sales": "513,62",
+    "id": 44
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Indiana",
+    "orders": 4,
+    "gross_sales": "1542,5",
+    "id": 18
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Connecticut",
+    "orders": 20,
+    "gross_sales": "8846,3",
+    "id": 9
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Louisiana",
+    "orders": 6,
+    "gross_sales": 3805,
+    "id": 22
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "South Carolina",
+    "orders": 15,
+    "gross_sales": "6829,6",
+    "id": 45
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Georgia",
+    "orders": 48,
+    "gross_sales": "23764,7",
+    "id": 13
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "New York",
+    "orders": 114,
+    "gross_sales": "60059,55",
+    "id": 36
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Ontario",
+    "orders": 3,
+    "gross_sales": "2039,76",
+    "id": 40
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Maryland",
+    "orders": 28,
+    "gross_sales": "11282,2",
+    "id": 24
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Kentucky",
+    "orders": 2,
+    "gross_sales": "806,5",
+    "id": 21
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Sonora",
+    "orders": 2,
+    "gross_sales": "1027,24",
+    "id": 44
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Alberta",
+    "orders": 1,
+    "gross_sales": "753,09",
+    "id": 2
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "California",
+    "orders": 170,
+    "gross_sales": "77331,3",
+    "id": 6
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Ohio",
+    "orders": 8,
+    "gross_sales": "5104,4",
+    "id": 39
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Colorado",
+    "orders": 15,
+    "gross_sales": "9629,6",
+    "id": 8
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Iowa",
+    "orders": 3,
+    "gross_sales": "1064,8",
+    "id": 19
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Massachusetts",
+    "orders": 31,
+    "gross_sales": "13482,4",
+    "id": 25
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "New Hampshire",
+    "orders": 4,
+    "gross_sales": 2582,
+    "id": 33
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Nebraska",
+    "orders": 2,
+    "gross_sales": 990,
+    "id": 31
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Pennsylvania",
+    "orders": 21,
+    "gross_sales": "13118,9",
+    "id": 42
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Florida",
+    "orders": 243,
+    "gross_sales": "132430,1",
+    "id": 12
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Illinois",
+    "orders": 37,
+    "gross_sales": "18814,3",
+    "id": 17
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Tennessee",
+    "orders": 14,
+    "gross_sales": "7637,6",
+    "id": 47
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Idaho",
+    "orders": 2,
+    "gross_sales": 1745,
+    "id": 16
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "North Dakota",
+    "orders": 1,
+    "gross_sales": 315,
+    "id": 38
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "District Of Columbia",
+    "orders": 3,
+    "gross_sales": 2000,
+    "id": 11
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Missouri",
+    "orders": 5,
+    "gross_sales": 1540,
+    "id": 29
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Rhode Island",
+    "orders": 6,
+    "gross_sales": 3537,
+    "id": 44
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Delaware",
+    "orders": 4,
+    "gross_sales": "1336,1",
+    "id": 10
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Nevada",
+    "orders": 8,
+    "gross_sales": "5749,8",
+    "id": 32
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Wisconsin",
+    "orders": 7,
+    "gross_sales": "2774,6",
+    "id": 55
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Michigan",
+    "orders": 12,
+    "gross_sales": 5903,
+    "id": 26
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Arkansas",
+    "orders": 4,
+    "gross_sales": "3290,3",
+    "id": 5
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Minnesota",
+    "orders": 6,
+    "gross_sales": "1249,8",
+    "id": 27
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "England",
+    "orders": 1,
+    "gross_sales": "829,82",
+    "id": 11
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "North Carolina",
+    "orders": 39,
+    "gross_sales": 18625,
+    "id": 37
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Quebec",
+    "orders": 3,
+    "gross_sales": "2076,34",
+    "id": 42
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Kansas",
+    "orders": 3,
+    "gross_sales": 1925,
+    "id": 20
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Lomas De Chapultepec",
+    "orders": 1,
+    "gross_sales": "617,37",
+    "id": 21
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Texas",
+    "orders": 103,
+    "gross_sales": "54042,5",
+    "id": 48
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Washington",
+    "orders": 8,
+    "gross_sales": 3585,
+    "id": 53
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Alabama",
+    "orders": 13,
+    "gross_sales": "6603,8",
+    "id": 1
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Hawaii",
+    "orders": 1,
+    "gross_sales": 270,
+    "id": 15
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Oklahoma",
+    "orders": 1,
+    "gross_sales": 690,
+    "id": 40
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Ge",
+    "orders": 1,
+    "gross_sales": 778,
+    "id": 12
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Mississippi",
+    "orders": 2,
+    "gross_sales": 1190,
+    "id": 28
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Utah",
+    "orders": 3,
+    "gross_sales": 2425,
+    "id": 49
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "West Virginia",
+    "orders": 1,
+    "gross_sales": 716,
+    "id": 54
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Arizona",
+    "orders": 18,
+    "gross_sales": "9158,8",
+    "id": 4
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "",
+    "orders": 183,
+    "gross_sales": "142495,54",
+    "id": "#N/A"
+  },
+  {
+    "month": "2022-12",
+    "shipping_region": "Montana",
+    "orders": 2,
+    "gross_sales": 1175,
+    "id": 30
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Indiana",
+    "orders": 5,
+    "gross_sales": 2381,
+    "id": 18
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Wisconsin",
+    "orders": 3,
+    "gross_sales": 1386,
+    "id": 55
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Kentucky",
+    "orders": 2,
+    "gross_sales": 622,
+    "id": 21
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "West Virginia",
+    "orders": 1,
+    "gross_sales": 250,
+    "id": 54
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "New York",
+    "orders": 127,
+    "gross_sales": "64076,3",
+    "id": 36
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Wyoming",
+    "orders": 2,
+    "gross_sales": 3655,
+    "id": 55
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Utah",
+    "orders": 2,
+    "gross_sales": 639,
+    "id": 49
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Maine",
+    "orders": 1,
+    "gross_sales": 357,
+    "id": 23
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Ontario",
+    "orders": 1,
+    "gross_sales": "349,41",
+    "id": 40
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Puerto Rico",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 42
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Illinois",
+    "orders": 32,
+    "gross_sales": 13677,
+    "id": 17
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Massachusetts",
+    "orders": 27,
+    "gross_sales": 13871,
+    "id": 25
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Pennsylvania",
+    "orders": 22,
+    "gross_sales": 11594,
+    "id": 42
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Minnesota",
+    "orders": 1,
+    "gross_sales": 1190,
+    "id": 27
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Nebraska",
+    "orders": 2,
+    "gross_sales": 760,
+    "id": 31
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Kansas",
+    "orders": 1,
+    "gross_sales": 425,
+    "id": 20
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Alberta",
+    "orders": 1,
+    "gross_sales": "764,79",
+    "id": 2
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Maryland",
+    "orders": 18,
+    "gross_sales": "8956,8",
+    "id": 24
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "New Jersey",
+    "orders": 59,
+    "gross_sales": "28871,8",
+    "id": 34
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Idaho",
+    "orders": 2,
+    "gross_sales": 555,
+    "id": 16
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Georgia",
+    "orders": 35,
+    "gross_sales": "18708,8",
+    "id": 13
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Rhode Island",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 44
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Arizona",
+    "orders": 9,
+    "gross_sales": "5206,5",
+    "id": 4
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Mississippi",
+    "orders": 3,
+    "gross_sales": 938,
+    "id": 28
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Alabama",
+    "orders": 15,
+    "gross_sales": 8057,
+    "id": 1
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Virginia",
+    "orders": 22,
+    "gross_sales": "11765,8",
+    "id": 51
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Connecticut",
+    "orders": 19,
+    "gross_sales": "9442,3",
+    "id": 9
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "YucatÃ¡n",
+    "orders": 1,
+    "gross_sales": "466,91",
+    "id": 55
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Oregon",
+    "orders": 23,
+    "gross_sales": 11216,
+    "id": 41
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Washington",
+    "orders": 18,
+    "gross_sales": 8752,
+    "id": 53
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Michigan",
+    "orders": 16,
+    "gross_sales": 8110,
+    "id": 26
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "District Of Columbia",
+    "orders": 10,
+    "gross_sales": 5227,
+    "id": 11
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "England",
+    "orders": 1,
+    "gross_sales": "824,94",
+    "id": 11
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "South Dakota",
+    "orders": 1,
+    "gross_sales": 450,
+    "id": 46
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "California",
+    "orders": 143,
+    "gross_sales": "69218,05",
+    "id": 6
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Texas",
+    "orders": 112,
+    "gross_sales": "53990,4",
+    "id": 48
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "British Columbia",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 5
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Tennessee",
+    "orders": 10,
+    "gross_sales": 6065,
+    "id": 47
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Missouri",
+    "orders": 7,
+    "gross_sales": 2817,
+    "id": 29
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Florida",
+    "orders": 205,
+    "gross_sales": "104509,6",
+    "id": 12
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "North Carolina",
+    "orders": 22,
+    "gross_sales": "10226,3",
+    "id": 37
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Louisiana",
+    "orders": 9,
+    "gross_sales": 4175,
+    "id": 22
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "",
+    "orders": 167,
+    "gross_sales": "122412,36",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Nevada",
+    "orders": 4,
+    "gross_sales": 1750,
+    "id": 32
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Delaware",
+    "orders": 1,
+    "gross_sales": 250,
+    "id": 10
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "New Hampshire",
+    "orders": 1,
+    "gross_sales": 725,
+    "id": 33
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Colorado",
+    "orders": 12,
+    "gross_sales": 8643,
+    "id": 8
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "South Carolina",
+    "orders": 12,
+    "gross_sales": "5184,5",
+    "id": 45
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Hawaii",
+    "orders": 1,
+    "gross_sales": 363,
+    "id": 15
+  },
+  {
+    "month": "2023-01",
+    "shipping_region": "Ohio",
+    "orders": 10,
+    "gross_sales": 6451,
+    "id": 39
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Georgia",
+    "orders": 37,
+    "gross_sales": "15037,6",
+    "id": 13
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Philippines",
+    "orders": 1,
+    "gross_sales": 617,
+    "id": 42
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Queensland",
+    "orders": 1,
+    "gross_sales": "698,44",
+    "id": 42
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Oklahoma",
+    "orders": 6,
+    "gross_sales": "4274,8",
+    "id": 40
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Colorado",
+    "orders": 13,
+    "gross_sales": "5974,8",
+    "id": 8
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "South Dakota",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 46
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "West Virginia",
+    "orders": 1,
+    "gross_sales": 420,
+    "id": 54
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Arkansas",
+    "orders": 3,
+    "gross_sales": 915,
+    "id": 5
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Hawaii",
+    "orders": 1,
+    "gross_sales": 265,
+    "id": 15
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "New Mexico",
+    "orders": 2,
+    "gross_sales": 875,
+    "id": 35
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Delaware",
+    "orders": 2,
+    "gross_sales": 1100,
+    "id": 10
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Jalisco",
+    "orders": 1,
+    "gross_sales": "626,94",
+    "id": 19
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Pennsylvania",
+    "orders": 21,
+    "gross_sales": "8602,8",
+    "id": 42
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Nevada",
+    "orders": 6,
+    "gross_sales": 2085,
+    "id": 32
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Texas",
+    "orders": 95,
+    "gross_sales": "49929,4",
+    "id": 48
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "New York",
+    "orders": 116,
+    "gross_sales": "62540,1",
+    "id": 36
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Massachusetts",
+    "orders": 19,
+    "gross_sales": 9568,
+    "id": 25
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Maryland",
+    "orders": 20,
+    "gross_sales": "12564,6",
+    "id": 24
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Wisconsin",
+    "orders": 2,
+    "gross_sales": 845,
+    "id": 55
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Kentucky",
+    "orders": 6,
+    "gross_sales": 2215,
+    "id": 21
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Minnesota",
+    "orders": 2,
+    "gross_sales": 515,
+    "id": 27
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Mississippi",
+    "orders": 2,
+    "gross_sales": 685,
+    "id": 28
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "California",
+    "orders": 126,
+    "gross_sales": "66199,2",
+    "id": 6
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Utah",
+    "orders": 3,
+    "gross_sales": 1570,
+    "id": 49
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Alabama",
+    "orders": 13,
+    "gross_sales": 6973,
+    "id": 1
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Ohio",
+    "orders": 15,
+    "gross_sales": "7411,8",
+    "id": 39
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "District Of Columbia",
+    "orders": 4,
+    "gross_sales": 2561,
+    "id": 11
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Kansas",
+    "orders": 1,
+    "gross_sales": 1190,
+    "id": 20
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Louisiana",
+    "orders": 11,
+    "gross_sales": "5024,8",
+    "id": 22
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Connecticut",
+    "orders": 20,
+    "gross_sales": "10179,8",
+    "id": 9
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Tennessee",
+    "orders": 16,
+    "gross_sales": "6829,8",
+    "id": 47
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Doha",
+    "orders": 1,
+    "gross_sales": "928,59",
+    "id": 11
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Rhode Island",
+    "orders": 4,
+    "gross_sales": 1935,
+    "id": 44
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "",
+    "orders": 199,
+    "gross_sales": "145660,24",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Northern Territory",
+    "orders": 1,
+    "gross_sales": "458,62",
+    "id": 38
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Wyoming",
+    "orders": 2,
+    "gross_sales": 1785,
+    "id": 55
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Florida",
+    "orders": 197,
+    "gross_sales": "108164,7",
+    "id": 12
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Quebec",
+    "orders": 1,
+    "gross_sales": "495,97",
+    "id": 42
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Riyadh",
+    "orders": 1,
+    "gross_sales": "778,25",
+    "id": 44
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Washington",
+    "orders": 5,
+    "gross_sales": 1890,
+    "id": 53
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "South Carolina",
+    "orders": 14,
+    "gross_sales": "5949,8",
+    "id": 45
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Abu Dhabi",
+    "orders": 1,
+    "gross_sales": "409,85",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Oregon",
+    "orders": 4,
+    "gross_sales": 2010,
+    "id": 41
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Missouri",
+    "orders": 4,
+    "gross_sales": "1479,8",
+    "id": 29
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Illinois",
+    "orders": 33,
+    "gross_sales": 13351,
+    "id": 17
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "England",
+    "orders": 1,
+    "gross_sales": "816,61",
+    "id": 11
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "New Hampshire",
+    "orders": 1,
+    "gross_sales": 725,
+    "id": 33
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "North Carolina",
+    "orders": 27,
+    "gross_sales": 13093,
+    "id": 37
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "TÅkyÅ",
+    "orders": 1,
+    "gross_sales": "551,39",
+    "id": 46
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Virginia",
+    "orders": 26,
+    "gross_sales": "10504,2",
+    "id": 51
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Nebraska",
+    "orders": 2,
+    "gross_sales": 1090,
+    "id": 31
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Idaho",
+    "orders": 2,
+    "gross_sales": 970,
+    "id": 16
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "New Jersey",
+    "orders": 48,
+    "gross_sales": 23909,
+    "id": 34
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Michigan",
+    "orders": 16,
+    "gross_sales": 7435,
+    "id": 26
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Indiana",
+    "orders": 6,
+    "gross_sales": "2176,5",
+    "id": 18
+  },
+  {
+    "month": "2023-02",
+    "shipping_region": "Arizona",
+    "orders": 11,
+    "gross_sales": "4119,8",
+    "id": 4
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Illinois",
+    "orders": 57,
+    "gross_sales": 31719,
+    "id": 17
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Maryland",
+    "orders": 38,
+    "gross_sales": 15754,
+    "id": 24
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Alabama",
+    "orders": 16,
+    "gross_sales": 11415,
+    "id": 1
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "West Virginia",
+    "orders": 1,
+    "gross_sales": 495,
+    "id": 54
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Hawaii",
+    "orders": 1,
+    "gross_sales": 500,
+    "id": 15
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "New Mexico",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 35
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Nebraska",
+    "orders": 2,
+    "gross_sales": 1275,
+    "id": 31
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Oregon",
+    "orders": 4,
+    "gross_sales": 2545,
+    "id": 41
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "North Carolina",
+    "orders": 24,
+    "gross_sales": 9819,
+    "id": 37
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Louisiana",
+    "orders": 8,
+    "gross_sales": 3195,
+    "id": 22
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Minnesota",
+    "orders": 4,
+    "gross_sales": 1370,
+    "id": 27
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Iowa",
+    "orders": 2,
+    "gross_sales": 760,
+    "id": 19
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "California",
+    "orders": 207,
+    "gross_sales": "110000,5",
+    "id": 6
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Delaware",
+    "orders": 3,
+    "gross_sales": 1235,
+    "id": 10
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Michigan",
+    "orders": 14,
+    "gross_sales": 5575,
+    "id": 26
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Jalisco",
+    "orders": 2,
+    "gross_sales": "1244,1",
+    "id": 19
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "",
+    "orders": 229,
+    "gross_sales": "169165,63",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Washington",
+    "orders": 16,
+    "gross_sales": 7310,
+    "id": 53
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Virginia",
+    "orders": 16,
+    "gross_sales": 8325,
+    "id": 51
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Tennessee",
+    "orders": 20,
+    "gross_sales": "11335,5",
+    "id": 47
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Connecticut",
+    "orders": 28,
+    "gross_sales": 13595,
+    "id": 9
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Ohio",
+    "orders": 7,
+    "gross_sales": 2756,
+    "id": 39
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Alberta",
+    "orders": 1,
+    "gross_sales": "595,09",
+    "id": 2
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Oklahoma",
+    "orders": 3,
+    "gross_sales": 1595,
+    "id": 40
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Utah",
+    "orders": 3,
+    "gross_sales": 1250,
+    "id": 49
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Wisconsin",
+    "orders": 7,
+    "gross_sales": 3180,
+    "id": 55
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Kansas",
+    "orders": 7,
+    "gross_sales": 4044,
+    "id": 20
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Georgia",
+    "orders": 63,
+    "gross_sales": 31269,
+    "id": 13
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Arkansas",
+    "orders": 2,
+    "gross_sales": 845,
+    "id": 5
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Lomas De Chapultepec",
+    "orders": 1,
+    "gross_sales": "617,37",
+    "id": 21
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Rhode Island",
+    "orders": 2,
+    "gross_sales": 1455,
+    "id": 44
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Pennsylvania",
+    "orders": 21,
+    "gross_sales": 14229,
+    "id": 42
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "South Carolina",
+    "orders": 20,
+    "gross_sales": 12490,
+    "id": 45
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "New Jersey",
+    "orders": 89,
+    "gross_sales": 40761,
+    "id": 34
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Kentucky",
+    "orders": 5,
+    "gross_sales": 3665,
+    "id": 21
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Mississippi",
+    "orders": 4,
+    "gross_sales": 1720,
+    "id": 28
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Missouri",
+    "orders": 12,
+    "gross_sales": 4589,
+    "id": 29
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Texas",
+    "orders": 135,
+    "gross_sales": "66057,5",
+    "id": 48
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Idaho",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 16
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Nevada",
+    "orders": 4,
+    "gross_sales": 1730,
+    "id": 32
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Quebec",
+    "orders": 1,
+    "gross_sales": "850,11",
+    "id": 42
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Florida",
+    "orders": 238,
+    "gross_sales": 134138,
+    "id": 12
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Massachusetts",
+    "orders": 29,
+    "gross_sales": 13715,
+    "id": 25
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "British Columbia",
+    "orders": 1,
+    "gross_sales": "781,58",
+    "id": 5
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "South Dakota",
+    "orders": 1,
+    "gross_sales": 1190,
+    "id": 46
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "District Of Columbia",
+    "orders": 9,
+    "gross_sales": 4580,
+    "id": 11
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Wyoming",
+    "orders": 2,
+    "gross_sales": 835,
+    "id": 55
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Indiana",
+    "orders": 2,
+    "gross_sales": 525,
+    "id": 18
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "England",
+    "orders": 1,
+    "gross_sales": "774,57",
+    "id": 11
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "New Hampshire",
+    "orders": 2,
+    "gross_sales": 540,
+    "id": 33
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Arizona",
+    "orders": 26,
+    "gross_sales": 12110,
+    "id": 4
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "New York",
+    "orders": 227,
+    "gross_sales": "126867,7",
+    "id": 36
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Doha",
+    "orders": 1,
+    "gross_sales": "617,28",
+    "id": 11
+  },
+  {
+    "month": "2023-03",
+    "shipping_region": "Colorado",
+    "orders": 20,
+    "gross_sales": 11820,
+    "id": 8
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Tennessee",
+    "orders": 23,
+    "gross_sales": "13702,5",
+    "id": 47
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Wyoming",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 55
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "California",
+    "orders": 160,
+    "gross_sales": "80593,5",
+    "id": 6
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Illinois",
+    "orders": 63,
+    "gross_sales": 25730,
+    "id": 17
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Jalisco",
+    "orders": 1,
+    "gross_sales": "625,78",
+    "id": 19
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Nebraska",
+    "orders": 1,
+    "gross_sales": 290,
+    "id": 31
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Montana",
+    "orders": 2,
+    "gross_sales": 985,
+    "id": 30
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "British Columbia",
+    "orders": 1,
+    "gross_sales": "496,46",
+    "id": 5
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Arkansas",
+    "orders": 3,
+    "gross_sales": 5870,
+    "id": 5
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Wisconsin",
+    "orders": 3,
+    "gross_sales": 1345,
+    "id": 55
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Texas",
+    "orders": 149,
+    "gross_sales": "70260,5",
+    "id": 48
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Alabama",
+    "orders": 14,
+    "gross_sales": 7760,
+    "id": 1
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Lomas De Chapultepec",
+    "orders": 1,
+    "gross_sales": "617,37",
+    "id": 21
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "New Jersey",
+    "orders": 101,
+    "gross_sales": 44835,
+    "id": 34
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Makkah",
+    "orders": 1,
+    "gross_sales": "721,09",
+    "id": 23
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Virginia",
+    "orders": 21,
+    "gross_sales": 11840,
+    "id": 51
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Missouri",
+    "orders": 13,
+    "gross_sales": 9780,
+    "id": 29
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Ohio",
+    "orders": 12,
+    "gross_sales": 4660,
+    "id": 39
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Nevada",
+    "orders": 7,
+    "gross_sales": "3410,5",
+    "id": 32
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Minnesota",
+    "orders": 6,
+    "gross_sales": 2440,
+    "id": 27
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Indiana",
+    "orders": 11,
+    "gross_sales": "6140,5",
+    "id": 18
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Ontario",
+    "orders": 2,
+    "gross_sales": "1291,1",
+    "id": 40
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Delaware",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 10
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Arizona",
+    "orders": 17,
+    "gross_sales": 7765,
+    "id": 4
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Connecticut",
+    "orders": 46,
+    "gross_sales": 30715,
+    "id": 9
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Utah",
+    "orders": 3,
+    "gross_sales": 1440,
+    "id": 49
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "District Of Columbia",
+    "orders": 12,
+    "gross_sales": 6875,
+    "id": 11
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Colorado",
+    "orders": 17,
+    "gross_sales": 11800,
+    "id": 8
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Oregon",
+    "orders": 5,
+    "gross_sales": 2345,
+    "id": 41
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Michigan",
+    "orders": 7,
+    "gross_sales": 2785,
+    "id": 26
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Kentucky",
+    "orders": 7,
+    "gross_sales": 3270,
+    "id": 21
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Florida",
+    "orders": 232,
+    "gross_sales": 136090,
+    "id": 12
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Manitoba",
+    "orders": 1,
+    "gross_sales": "597,58",
+    "id": 23
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Maine",
+    "orders": 1,
+    "gross_sales": 495,
+    "id": 23
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "North Carolina",
+    "orders": 25,
+    "gross_sales": 14305,
+    "id": 37
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Rhode Island",
+    "orders": 4,
+    "gross_sales": 1895,
+    "id": 44
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "New York",
+    "orders": 199,
+    "gross_sales": "101810,5",
+    "id": 36
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "South Dakota",
+    "orders": 1,
+    "gross_sales": 1785,
+    "id": 46
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Maryland",
+    "orders": 32,
+    "gross_sales": 14500,
+    "id": 24
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "",
+    "orders": 257,
+    "gross_sales": "200058,86",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Massachusetts",
+    "orders": 33,
+    "gross_sales": 20222,
+    "id": 25
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Lim",
+    "orders": 1,
+    "gross_sales": 617,
+    "id": 21
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Oklahoma",
+    "orders": 3,
+    "gross_sales": 1270,
+    "id": 40
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Australian Capital Territory",
+    "orders": 1,
+    "gross_sales": "748,74",
+    "id": 5
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Georgia",
+    "orders": 56,
+    "gross_sales": 33410,
+    "id": 13
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Pennsylvania",
+    "orders": 40,
+    "gross_sales": 20260,
+    "id": 42
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Kansas",
+    "orders": 5,
+    "gross_sales": 2115,
+    "id": 20
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "England",
+    "orders": 2,
+    "gross_sales": "1795,45",
+    "id": 11
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Louisiana",
+    "orders": 23,
+    "gross_sales": "12185,5",
+    "id": 22
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Iowa",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 19
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Washington",
+    "orders": 14,
+    "gross_sales": 6450,
+    "id": 53
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "South Carolina",
+    "orders": 23,
+    "gross_sales": 14675,
+    "id": 45
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Mississippi",
+    "orders": 4,
+    "gross_sales": 2010,
+    "id": 28
+  },
+  {
+    "month": "2023-04",
+    "shipping_region": "Idaho",
+    "orders": 2,
+    "gross_sales": 430,
+    "id": 16
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Indiana",
+    "orders": 7,
+    "gross_sales": 3030,
+    "id": 18
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Colorado",
+    "orders": 18,
+    "gross_sales": 8795,
+    "id": 8
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Utah",
+    "orders": 5,
+    "gross_sales": 2865,
+    "id": 49
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "West Virginia",
+    "orders": 2,
+    "gross_sales": 1190,
+    "id": 54
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Nevada",
+    "orders": 8,
+    "gross_sales": 3655,
+    "id": 32
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Maryland",
+    "orders": 26,
+    "gross_sales": 14423,
+    "id": 24
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Maine",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 23
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "British Columbia",
+    "orders": 1,
+    "gross_sales": "525,16",
+    "id": 5
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Georgia",
+    "orders": 40,
+    "gross_sales": 26006,
+    "id": 13
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Louisiana",
+    "orders": 6,
+    "gross_sales": 4325,
+    "id": 22
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Tennessee",
+    "orders": 13,
+    "gross_sales": 8880,
+    "id": 47
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "England",
+    "orders": 6,
+    "gross_sales": "6989,1",
+    "id": 11
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Kansas",
+    "orders": 1,
+    "gross_sales": 165,
+    "id": 20
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Rhode Island",
+    "orders": 2,
+    "gross_sales": 1715,
+    "id": 44
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Iowa",
+    "orders": 3,
+    "gross_sales": 1135,
+    "id": 19
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Manitoba",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 23
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Pennsylvania",
+    "orders": 33,
+    "gross_sales": "19915,33",
+    "id": 42
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Washington",
+    "orders": 18,
+    "gross_sales": 9896,
+    "id": 53
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Minnesota",
+    "orders": 3,
+    "gross_sales": 1135,
+    "id": 27
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Oregon",
+    "orders": 6,
+    "gross_sales": 2147,
+    "id": 41
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Mississippi",
+    "orders": 4,
+    "gross_sales": 2775,
+    "id": 28
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Idaho",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 16
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Vermont",
+    "orders": 1,
+    "gross_sales": 250,
+    "id": 50
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "New Jersey",
+    "orders": 53,
+    "gross_sales": 29580,
+    "id": 34
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Quebec",
+    "orders": 1,
+    "gross_sales": "1195,62",
+    "id": 42
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Missouri",
+    "orders": 9,
+    "gross_sales": 3110,
+    "id": 29
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Singapore",
+    "orders": 1,
+    "gross_sales": "942,84",
+    "id": 44
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Wisconsin",
+    "orders": 5,
+    "gross_sales": 2605,
+    "id": 55
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Michigan",
+    "orders": 11,
+    "gross_sales": 3677,
+    "id": 26
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Alabama",
+    "orders": 14,
+    "gross_sales": 9270,
+    "id": 1
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Arkansas",
+    "orders": 5,
+    "gross_sales": 2995,
+    "id": 5
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Ohio",
+    "orders": 24,
+    "gross_sales": "16073,5",
+    "id": 39
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Illinois",
+    "orders": 58,
+    "gross_sales": 34715,
+    "id": 17
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "New York",
+    "orders": 156,
+    "gross_sales": 94448,
+    "id": 36
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Florida",
+    "orders": 167,
+    "gross_sales": "105435,5",
+    "id": 12
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Virginia",
+    "orders": 19,
+    "gross_sales": 11423,
+    "id": 51
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "South Carolina",
+    "orders": 15,
+    "gross_sales": 9100,
+    "id": 45
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Montana",
+    "orders": 1,
+    "gross_sales": 695,
+    "id": 30
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Arizona",
+    "orders": 13,
+    "gross_sales": "6515,5",
+    "id": 4
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Massachusetts",
+    "orders": 25,
+    "gross_sales": 12355,
+    "id": 25
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "California",
+    "orders": 168,
+    "gross_sales": "91353,5",
+    "id": 6
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Oklahoma",
+    "orders": 2,
+    "gross_sales": 1240,
+    "id": 40
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Wyoming",
+    "orders": 3,
+    "gross_sales": 1440,
+    "id": 55
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "",
+    "orders": 237,
+    "gross_sales": "176867,83",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Delaware",
+    "orders": 6,
+    "gross_sales": 3975,
+    "id": 10
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Connecticut",
+    "orders": 40,
+    "gross_sales": 25757,
+    "id": 9
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Nebraska",
+    "orders": 2,
+    "gross_sales": 2015,
+    "id": 31
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "District Of Columbia",
+    "orders": 12,
+    "gross_sales": 6715,
+    "id": 11
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Kentucky",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 21
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "North Carolina",
+    "orders": 26,
+    "gross_sales": 15439,
+    "id": 37
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "New Hampshire",
+    "orders": 3,
+    "gross_sales": 2025,
+    "id": 33
+  },
+  {
+    "month": "2023-05",
+    "shipping_region": "Texas",
+    "orders": 119,
+    "gross_sales": 61457,
+    "id": 48
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Texas",
+    "orders": 89,
+    "gross_sales": "51256,5",
+    "id": 48
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Wyoming",
+    "orders": 2,
+    "gross_sales": 1510,
+    "id": 55
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Ohio",
+    "orders": 18,
+    "gross_sales": 11252,
+    "id": 39
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Massachusetts",
+    "orders": 26,
+    "gross_sales": 13745,
+    "id": 25
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Oregon",
+    "orders": 6,
+    "gross_sales": 3210,
+    "id": 41
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Missouri",
+    "orders": 5,
+    "gross_sales": 2965,
+    "id": 29
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "British Columbia",
+    "orders": 1,
+    "gross_sales": "415,37",
+    "id": 5
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "District Of Columbia",
+    "orders": 9,
+    "gross_sales": 5260,
+    "id": 11
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Illinois",
+    "orders": 36,
+    "gross_sales": 24240,
+    "id": 17
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Wisconsin",
+    "orders": 6,
+    "gross_sales": 4170,
+    "id": 55
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Ontario",
+    "orders": 1,
+    "gross_sales": "556,3",
+    "id": 40
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "North Carolina",
+    "orders": 29,
+    "gross_sales": 14670,
+    "id": 37
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Washington",
+    "orders": 9,
+    "gross_sales": 4195,
+    "id": 53
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "New Jersey",
+    "orders": 64,
+    "gross_sales": 34438,
+    "id": 34
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Rhode Island",
+    "orders": 3,
+    "gross_sales": 865,
+    "id": 44
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Tennessee",
+    "orders": 15,
+    "gross_sales": 8350,
+    "id": 47
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Arizona",
+    "orders": 7,
+    "gross_sales": 2615,
+    "id": 4
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Maryland",
+    "orders": 25,
+    "gross_sales": 16107,
+    "id": 24
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Kansas",
+    "orders": 1,
+    "gross_sales": 275,
+    "id": 20
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Michigan",
+    "orders": 15,
+    "gross_sales": 7510,
+    "id": 26
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Victoria",
+    "orders": 1,
+    "gross_sales": "550,65",
+    "id": 50
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "West Virginia",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 54
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Georgia",
+    "orders": 25,
+    "gross_sales": 14922,
+    "id": 13
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Colorado",
+    "orders": 18,
+    "gross_sales": 12435,
+    "id": 8
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "England",
+    "orders": 3,
+    "gross_sales": "1671,19",
+    "id": 11
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "North Dakota",
+    "orders": 3,
+    "gross_sales": 2576,
+    "id": 38
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Delaware",
+    "orders": 4,
+    "gross_sales": 2660,
+    "id": 10
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Pennsylvania",
+    "orders": 21,
+    "gross_sales": 9670,
+    "id": 42
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Arkansas",
+    "orders": 1,
+    "gross_sales": 550,
+    "id": 5
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Louisiana",
+    "orders": 3,
+    "gross_sales": 930,
+    "id": 22
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Minnesota",
+    "orders": 3,
+    "gross_sales": 1645,
+    "id": 27
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Mississippi",
+    "orders": 0,
+    "gross_sales": 0,
+    "id": 28
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Maine",
+    "orders": 1,
+    "gross_sales": 190,
+    "id": 23
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "California",
+    "orders": 145,
+    "gross_sales": "81636,5",
+    "id": 6
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "South Carolina",
+    "orders": 11,
+    "gross_sales": 6745,
+    "id": 45
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "",
+    "orders": 229,
+    "gross_sales": "184790,04",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Kentucky",
+    "orders": 1,
+    "gross_sales": 425,
+    "id": 21
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Iowa",
+    "orders": 3,
+    "gross_sales": 4255,
+    "id": 19
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Utah",
+    "orders": 5,
+    "gross_sales": 3662,
+    "id": 49
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Alabama",
+    "orders": 7,
+    "gross_sales": 4755,
+    "id": 1
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Connecticut",
+    "orders": 33,
+    "gross_sales": 24826,
+    "id": 9
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Indiana",
+    "orders": 9,
+    "gross_sales": 5191,
+    "id": 18
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "New York",
+    "orders": 137,
+    "gross_sales": "73496,94",
+    "id": 36
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Idaho",
+    "orders": 3,
+    "gross_sales": 1925,
+    "id": 16
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "New Hampshire",
+    "orders": 3,
+    "gross_sales": 2710,
+    "id": 33
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Florida",
+    "orders": 127,
+    "gross_sales": "74142,5",
+    "id": 12
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Virginia",
+    "orders": 16,
+    "gross_sales": 9457,
+    "id": 51
+  },
+  {
+    "month": "2023-06",
+    "shipping_region": "Nevada",
+    "orders": 2,
+    "gross_sales": 985,
+    "id": 32
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "North Carolina",
+    "orders": 30,
+    "gross_sales": 14451,
+    "id": 37
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Arizona",
+    "orders": 7,
+    "gross_sales": 2286,
+    "id": 4
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Quebec",
+    "orders": 1,
+    "gross_sales": "512,49",
+    "id": 42
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "",
+    "orders": 208,
+    "gross_sales": "134429,63",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "New Hampshire",
+    "orders": 2,
+    "gross_sales": 1190,
+    "id": 33
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Maine",
+    "orders": 2,
+    "gross_sales": 748,
+    "id": 23
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Florida",
+    "orders": 184,
+    "gross_sales": "84138,2",
+    "id": 12
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Nebraska",
+    "orders": 1,
+    "gross_sales": 425,
+    "id": 31
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Indiana",
+    "orders": 7,
+    "gross_sales": 3554,
+    "id": 18
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Rhode Island",
+    "orders": 9,
+    "gross_sales": 4356,
+    "id": 44
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Iowa",
+    "orders": 3,
+    "gross_sales": 1985,
+    "id": 19
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Kentucky",
+    "orders": 4,
+    "gross_sales": 1840,
+    "id": 21
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "District Of Columbia",
+    "orders": 11,
+    "gross_sales": 5571,
+    "id": 11
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Alabama",
+    "orders": 11,
+    "gross_sales": 5504,
+    "id": 1
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Kansas",
+    "orders": 2,
+    "gross_sales": 596,
+    "id": 20
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Oklahoma",
+    "orders": 3,
+    "gross_sales": 1433,
+    "id": 40
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Missouri",
+    "orders": 7,
+    "gross_sales": 2527,
+    "id": 29
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Tennessee",
+    "orders": 13,
+    "gross_sales": 5328,
+    "id": 47
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Nevada",
+    "orders": 11,
+    "gross_sales": "4850,3",
+    "id": 32
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Mississippi",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 28
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Arkansas",
+    "orders": 1,
+    "gross_sales": 525,
+    "id": 5
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "New Jersey",
+    "orders": 58,
+    "gross_sales": 26034,
+    "id": 34
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Georgia",
+    "orders": 41,
+    "gross_sales": "16701,8",
+    "id": 13
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Oregon",
+    "orders": 4,
+    "gross_sales": 1919,
+    "id": 41
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Ciudad De MÃ©xico",
+    "orders": 1,
+    "gross_sales": "438,21",
+    "id": 6
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Illinois",
+    "orders": 48,
+    "gross_sales": "22517,95",
+    "id": 17
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Pennsylvania",
+    "orders": 25,
+    "gross_sales": 13609,
+    "id": 42
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Wyoming",
+    "orders": 4,
+    "gross_sales": 1853,
+    "id": 55
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "British Columbia",
+    "orders": 1,
+    "gross_sales": "426,55",
+    "id": 5
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Minnesota",
+    "orders": 8,
+    "gross_sales": 3374,
+    "id": 27
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Maryland",
+    "orders": 22,
+    "gross_sales": "8588,5",
+    "id": 24
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "South Carolina",
+    "orders": 13,
+    "gross_sales": 6242,
+    "id": 45
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "England",
+    "orders": 2,
+    "gross_sales": "1423,63",
+    "id": 11
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Utah",
+    "orders": 3,
+    "gross_sales": 1093,
+    "id": 49
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Louisiana",
+    "orders": 7,
+    "gross_sales": "3350,8",
+    "id": 22
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Ontario",
+    "orders": 4,
+    "gross_sales": "2170,5",
+    "id": 40
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Montana",
+    "orders": 1,
+    "gross_sales": 859,
+    "id": 30
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Washington",
+    "orders": 14,
+    "gross_sales": 6019,
+    "id": 53
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Wisconsin",
+    "orders": 7,
+    "gross_sales": 2036,
+    "id": 55
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Connecticut",
+    "orders": 25,
+    "gross_sales": 14002,
+    "id": 9
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "New Mexico",
+    "orders": 2,
+    "gross_sales": 440,
+    "id": 35
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Virginia",
+    "orders": 20,
+    "gross_sales": 8560,
+    "id": 51
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Hidalgo",
+    "orders": 2,
+    "gross_sales": "1234,75",
+    "id": 15
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "New York",
+    "orders": 168,
+    "gross_sales": "77496,2",
+    "id": 36
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Texas",
+    "orders": 106,
+    "gross_sales": "55005,55",
+    "id": 48
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "California",
+    "orders": 168,
+    "gross_sales": 86121,
+    "id": 6
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Alberta",
+    "orders": 1,
+    "gross_sales": "199,26",
+    "id": 2
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Delaware",
+    "orders": 1,
+    "gross_sales": 297,
+    "id": 10
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Massachusetts",
+    "orders": 35,
+    "gross_sales": 15712,
+    "id": 25
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Michigan",
+    "orders": 17,
+    "gross_sales": 7236,
+    "id": 26
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Jalisco",
+    "orders": 1,
+    "gross_sales": "367,67",
+    "id": 19
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Hawaii",
+    "orders": 3,
+    "gross_sales": 2103,
+    "id": 15
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Ohio",
+    "orders": 18,
+    "gross_sales": 7378,
+    "id": 39
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "Colorado",
+    "orders": 21,
+    "gross_sales": 10819,
+    "id": 8
+  },
+  {
+    "month": "2023-07",
+    "shipping_region": "North Dakota",
+    "orders": 1,
+    "gross_sales": 559,
+    "id": 38
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Wisconsin",
+    "orders": 9,
+    "gross_sales": 6442,
+    "id": 55
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "England",
+    "orders": 2,
+    "gross_sales": "737,37",
+    "id": 11
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Idaho",
+    "orders": 1,
+    "gross_sales": 417,
+    "id": 16
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Tennessee",
+    "orders": 13,
+    "gross_sales": 7268,
+    "id": 47
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Indiana",
+    "orders": 6,
+    "gross_sales": 1493,
+    "id": 18
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Rhode Island",
+    "orders": 6,
+    "gross_sales": 2879,
+    "id": 44
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Minnesota",
+    "orders": 5,
+    "gross_sales": 1670,
+    "id": 27
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Missouri",
+    "orders": 10,
+    "gross_sales": 3392,
+    "id": 29
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "California",
+    "orders": 166,
+    "gross_sales": "72253,15",
+    "id": 6
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "West Virginia",
+    "orders": 1,
+    "gross_sales": 290,
+    "id": 54
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Arkansas",
+    "orders": 4,
+    "gross_sales": 883,
+    "id": 5
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Alabama",
+    "orders": 9,
+    "gross_sales": 2800,
+    "id": 1
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "New Hampshire",
+    "orders": 4,
+    "gross_sales": 1170,
+    "id": 33
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Kentucky",
+    "orders": 4,
+    "gross_sales": 4170,
+    "id": 21
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Maryland",
+    "orders": 18,
+    "gross_sales": 6419,
+    "id": 24
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Florida",
+    "orders": 98,
+    "gross_sales": 46477,
+    "id": 12
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Virginia",
+    "orders": 25,
+    "gross_sales": 12716,
+    "id": 51
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Connecticut",
+    "orders": 18,
+    "gross_sales": "7550,75",
+    "id": 9
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Victoria",
+    "orders": 1,
+    "gross_sales": "160,27",
+    "id": 50
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Mississippi",
+    "orders": 3,
+    "gross_sales": 1645,
+    "id": 28
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Jalisco",
+    "orders": 1,
+    "gross_sales": "835,87",
+    "id": 19
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Michigan",
+    "orders": 21,
+    "gross_sales": 11706,
+    "id": 26
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "South Carolina",
+    "orders": 14,
+    "gross_sales": 7069,
+    "id": 45
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Washington",
+    "orders": 18,
+    "gross_sales": "8678,5",
+    "id": 53
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "New Mexico",
+    "orders": 1,
+    "gross_sales": 290,
+    "id": 35
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Queensland",
+    "orders": 1,
+    "gross_sales": "1391,08",
+    "id": 42
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "New York",
+    "orders": 100,
+    "gross_sales": "42694,2",
+    "id": 36
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Nevada",
+    "orders": 3,
+    "gross_sales": 3090,
+    "id": 32
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Tasmania",
+    "orders": 1,
+    "gross_sales": "403,34",
+    "id": 46
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Delaware",
+    "orders": 4,
+    "gross_sales": 2090,
+    "id": 10
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Pennsylvania",
+    "orders": 18,
+    "gross_sales": 6288,
+    "id": 42
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Massachusetts",
+    "orders": 20,
+    "gross_sales": 10443,
+    "id": 25
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "South Dakota",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 46
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "",
+    "orders": 142,
+    "gross_sales": "103914,31",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Wyoming",
+    "orders": 1,
+    "gross_sales": 183,
+    "id": 55
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Kansas",
+    "orders": 2,
+    "gross_sales": 1380,
+    "id": 20
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Oklahoma",
+    "orders": 3,
+    "gross_sales": 1135,
+    "id": 40
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Georgia",
+    "orders": 32,
+    "gross_sales": "14727,7",
+    "id": 13
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Texas",
+    "orders": 116,
+    "gross_sales": 49585,
+    "id": 48
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Colorado",
+    "orders": 11,
+    "gross_sales": 3775,
+    "id": 8
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Illinois",
+    "orders": 35,
+    "gross_sales": 13618,
+    "id": 17
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "District Of Columbia",
+    "orders": 8,
+    "gross_sales": 2810,
+    "id": 11
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Arizona",
+    "orders": 11,
+    "gross_sales": 4676,
+    "id": 4
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Oregon",
+    "orders": 4,
+    "gross_sales": 1670,
+    "id": 41
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Iowa",
+    "orders": 1,
+    "gross_sales": 250,
+    "id": 19
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Louisiana",
+    "orders": 13,
+    "gross_sales": "5429,8",
+    "id": 22
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Ohio",
+    "orders": 20,
+    "gross_sales": 8501,
+    "id": 39
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "New Jersey",
+    "orders": 59,
+    "gross_sales": 27012,
+    "id": 34
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Maine",
+    "orders": 2,
+    "gross_sales": "1100,75",
+    "id": 23
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Tunari",
+    "orders": 1,
+    "gross_sales": "617,09",
+    "id": 48
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "Utah",
+    "orders": 3,
+    "gross_sales": 1280,
+    "id": 49
+  },
+  {
+    "month": "2023-08",
+    "shipping_region": "North Carolina",
+    "orders": 29,
+    "gross_sales": "14176,8",
+    "id": 37
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Maryland",
+    "orders": 20,
+    "gross_sales": 8839,
+    "id": 24
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Utah",
+    "orders": 4,
+    "gross_sales": 1190,
+    "id": 49
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Idaho",
+    "orders": 1,
+    "gross_sales": 190,
+    "id": 16
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Delaware",
+    "orders": 3,
+    "gross_sales": 1390,
+    "id": 10
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Virginia",
+    "orders": 27,
+    "gross_sales": 18197,
+    "id": 51
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Illinois",
+    "orders": 45,
+    "gross_sales": 21274,
+    "id": 17
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "South Carolina",
+    "orders": 8,
+    "gross_sales": 3172,
+    "id": 45
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "North Dakota",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 38
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Texas",
+    "orders": 77,
+    "gross_sales": 36947,
+    "id": 48
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Colorado",
+    "orders": 9,
+    "gross_sales": 4939,
+    "id": 8
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Connecticut",
+    "orders": 28,
+    "gross_sales": "13761,5",
+    "id": 9
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "",
+    "orders": 123,
+    "gross_sales": "94111,53",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Oregon",
+    "orders": 5,
+    "gross_sales": "2187,5",
+    "id": 41
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Ohio",
+    "orders": 19,
+    "gross_sales": "10206,5",
+    "id": 39
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Massachusetts",
+    "orders": 29,
+    "gross_sales": 16236,
+    "id": 25
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "England",
+    "orders": 2,
+    "gross_sales": "2542,73",
+    "id": 11
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Arizona",
+    "orders": 6,
+    "gross_sales": 2144,
+    "id": 4
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Florida",
+    "orders": 127,
+    "gross_sales": "64882,75",
+    "id": 12
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Arkansas",
+    "orders": 2,
+    "gross_sales": 1070,
+    "id": 5
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Nebraska",
+    "orders": 1,
+    "gross_sales": 360,
+    "id": 31
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Kansas",
+    "orders": 1,
+    "gross_sales": 750,
+    "id": 20
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "West Virginia",
+    "orders": 1,
+    "gross_sales": 375,
+    "id": 54
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Washington",
+    "orders": 19,
+    "gross_sales": 8987,
+    "id": 53
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "New Hampshire",
+    "orders": 6,
+    "gross_sales": 2070,
+    "id": 33
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Pennsylvania",
+    "orders": 31,
+    "gross_sales": 14996,
+    "id": 42
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Georgia",
+    "orders": 38,
+    "gross_sales": "17200,75",
+    "id": 13
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Nova Scotia",
+    "orders": 1,
+    "gross_sales": "596,99",
+    "id": 38
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Minnesota",
+    "orders": 11,
+    "gross_sales": 4552,
+    "id": 27
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "New Jersey",
+    "orders": 60,
+    "gross_sales": 27064,
+    "id": 34
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "New York",
+    "orders": 133,
+    "gross_sales": "74000,25",
+    "id": 36
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Missouri",
+    "orders": 7,
+    "gross_sales": 2500,
+    "id": 29
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "California",
+    "orders": 140,
+    "gross_sales": 69954,
+    "id": 6
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Alabama",
+    "orders": 10,
+    "gross_sales": "5025,5",
+    "id": 1
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "TÅkyÅ",
+    "orders": 1,
+    "gross_sales": "939,85",
+    "id": 46
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Indiana",
+    "orders": 4,
+    "gross_sales": 2465,
+    "id": 18
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Michigan",
+    "orders": 13,
+    "gross_sales": 5099,
+    "id": 26
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Tennessee",
+    "orders": 21,
+    "gross_sales": "17904,75",
+    "id": 47
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Nuevo LeÃ³n",
+    "orders": 1,
+    "gross_sales": "249,71",
+    "id": 38
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Iowa",
+    "orders": 2,
+    "gross_sales": 750,
+    "id": 19
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Hawaii",
+    "orders": 4,
+    "gross_sales": 2535,
+    "id": 15
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Hong Kong Island",
+    "orders": 1,
+    "gross_sales": "473,91",
+    "id": 15
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Valencia",
+    "orders": 1,
+    "gross_sales": 895,
+    "id": 49
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "District Of Columbia",
+    "orders": 8,
+    "gross_sales": 2740,
+    "id": 11
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Montana",
+    "orders": 3,
+    "gross_sales": "712,92",
+    "id": 30
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Wisconsin",
+    "orders": 5,
+    "gross_sales": 2365,
+    "id": 55
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Maine",
+    "orders": 2,
+    "gross_sales": 705,
+    "id": 23
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Nevada",
+    "orders": 7,
+    "gross_sales": 5550,
+    "id": 32
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "North Carolina",
+    "orders": 14,
+    "gross_sales": 9867,
+    "id": 37
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Louisiana",
+    "orders": 11,
+    "gross_sales": 6895,
+    "id": 22
+  },
+  {
+    "month": "2023-09",
+    "shipping_region": "Kentucky",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 21
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Colorado",
+    "orders": 8,
+    "gross_sales": 5385,
+    "id": 8
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Missouri",
+    "orders": 6,
+    "gross_sales": 2805,
+    "id": 29
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Ontario",
+    "orders": 4,
+    "gross_sales": "2873,56",
+    "id": 40
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Utah",
+    "orders": 4,
+    "gross_sales": 1370,
+    "id": 49
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Minnesota",
+    "orders": 5,
+    "gross_sales": 2055,
+    "id": 27
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Connecticut",
+    "orders": 21,
+    "gross_sales": 13418,
+    "id": 9
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Nebraska",
+    "orders": 2,
+    "gross_sales": 2990,
+    "id": 31
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Wisconsin",
+    "orders": 3,
+    "gross_sales": 2140,
+    "id": 55
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Hawaii",
+    "orders": 1,
+    "gross_sales": 970,
+    "id": 15
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Michigan",
+    "orders": 6,
+    "gross_sales": 2425,
+    "id": 26
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Madrid",
+    "orders": 1,
+    "gross_sales": "847,92",
+    "id": 22
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Georgia",
+    "orders": 35,
+    "gross_sales": 14886,
+    "id": 13
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Florida",
+    "orders": 93,
+    "gross_sales": 50554,
+    "id": 12
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Milano",
+    "orders": 3,
+    "gross_sales": "4120,52",
+    "id": 26
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Kentucky",
+    "orders": 5,
+    "gross_sales": 3821,
+    "id": 21
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Indiana",
+    "orders": 2,
+    "gross_sales": 1070,
+    "id": 18
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Arizona",
+    "orders": 6,
+    "gross_sales": 3485,
+    "id": 4
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "New Hampshire",
+    "orders": 2,
+    "gross_sales": 380,
+    "id": 33
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Virginia",
+    "orders": 27,
+    "gross_sales": 12483,
+    "id": 51
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Illinois",
+    "orders": 29,
+    "gross_sales": 16400,
+    "id": 17
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Ohio",
+    "orders": 13,
+    "gross_sales": 5560,
+    "id": 39
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Massachusetts",
+    "orders": 20,
+    "gross_sales": 12347,
+    "id": 25
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Washington",
+    "orders": 9,
+    "gross_sales": 3370,
+    "id": 53
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Iowa",
+    "orders": 2,
+    "gross_sales": 1270,
+    "id": 19
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Maryland",
+    "orders": 10,
+    "gross_sales": 5485,
+    "id": 24
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Nevada",
+    "orders": 2,
+    "gross_sales": 930,
+    "id": 32
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Arkansas",
+    "orders": 3,
+    "gross_sales": 1165,
+    "id": 5
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Rhode Island",
+    "orders": 4,
+    "gross_sales": 3062,
+    "id": 44
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Queensland",
+    "orders": 1,
+    "gross_sales": "708,79",
+    "id": 42
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "New Jersey",
+    "orders": 41,
+    "gross_sales": "22542,75",
+    "id": 34
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Alabama",
+    "orders": 7,
+    "gross_sales": 3815,
+    "id": 1
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Tennessee",
+    "orders": 12,
+    "gross_sales": 11660,
+    "id": 47
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "",
+    "orders": 100,
+    "gross_sales": "81689,5",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Oregon",
+    "orders": 5,
+    "gross_sales": 2105,
+    "id": 41
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "North Carolina",
+    "orders": 14,
+    "gross_sales": 7871,
+    "id": 37
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Mississippi",
+    "orders": 1,
+    "gross_sales": 695,
+    "id": 28
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "England",
+    "orders": 2,
+    "gross_sales": "1925,87",
+    "id": 11
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "West Virginia",
+    "orders": 1,
+    "gross_sales": 795,
+    "id": 54
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Louisiana",
+    "orders": 5,
+    "gross_sales": 5415,
+    "id": 22
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Oklahoma",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 40
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Texas",
+    "orders": 77,
+    "gross_sales": "42780,5",
+    "id": 48
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "District Of Columbia",
+    "orders": 10,
+    "gross_sales": 4435,
+    "id": 11
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "South Carolina",
+    "orders": 10,
+    "gross_sales": 4801,
+    "id": 45
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "New York",
+    "orders": 110,
+    "gross_sales": "62442,5",
+    "id": 36
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "New Mexico",
+    "orders": 1,
+    "gross_sales": 695,
+    "id": 35
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Kansas",
+    "orders": 2,
+    "gross_sales": 1185,
+    "id": 20
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Maine",
+    "orders": 1,
+    "gross_sales": 695,
+    "id": 23
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "Pennsylvania",
+    "orders": 24,
+    "gross_sales": "11097,75",
+    "id": 42
+  },
+  {
+    "month": "2023-10",
+    "shipping_region": "California",
+    "orders": 103,
+    "gross_sales": "48077,75",
+    "id": 6
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Milano",
+    "orders": 1,
+    "gross_sales": "698,14",
+    "id": 26
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "New Hampshire",
+    "orders": 4,
+    "gross_sales": 1975,
+    "id": 33
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "South Carolina",
+    "orders": 8,
+    "gross_sales": 3603,
+    "id": 45
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Queensland",
+    "orders": 2,
+    "gross_sales": "1427,28",
+    "id": 42
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Scotland",
+    "orders": 1,
+    "gross_sales": "661,05",
+    "id": 44
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Maryland",
+    "orders": 21,
+    "gross_sales": "9337,75",
+    "id": 24
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Florida",
+    "orders": 205,
+    "gross_sales": "101581,3",
+    "id": 12
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Rhode Island",
+    "orders": 4,
+    "gross_sales": 2311,
+    "id": 44
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Alabama",
+    "orders": 15,
+    "gross_sales": "7784,25",
+    "id": 1
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Utah",
+    "orders": 4,
+    "gross_sales": 1465,
+    "id": 49
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Pennsylvania",
+    "orders": 24,
+    "gross_sales": "14698,5",
+    "id": 42
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Oklahoma",
+    "orders": 3,
+    "gross_sales": 1362,
+    "id": 40
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Kansas",
+    "orders": 2,
+    "gross_sales": 1316,
+    "id": 20
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Indiana",
+    "orders": 4,
+    "gross_sales": 1482,
+    "id": 18
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Western Australia",
+    "orders": 1,
+    "gross_sales": "520,1",
+    "id": 54
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Arizona",
+    "orders": 22,
+    "gross_sales": "11717,45",
+    "id": 4
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Slovenia",
+    "orders": 1,
+    "gross_sales": "345,55",
+    "id": 44
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Colorado",
+    "orders": 8,
+    "gross_sales": 4157,
+    "id": 8
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Jalisco",
+    "orders": 1,
+    "gross_sales": "403,83",
+    "id": 19
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Washington",
+    "orders": 3,
+    "gross_sales": 1436,
+    "id": 53
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Georgia",
+    "orders": 29,
+    "gross_sales": "15708,85",
+    "id": 13
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Massachusetts",
+    "orders": 30,
+    "gross_sales": "18701,5",
+    "id": 25
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "California",
+    "orders": 129,
+    "gross_sales": "69319,37",
+    "id": 6
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Virginia",
+    "orders": 23,
+    "gross_sales": 12766,
+    "id": 51
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Ontario",
+    "orders": 2,
+    "gross_sales": "1093,39",
+    "id": 40
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Australian Capital Territory",
+    "orders": 1,
+    "gross_sales": "926,14",
+    "id": 5
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Montana",
+    "orders": 1,
+    "gross_sales": 795,
+    "id": 30
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "British Columbia",
+    "orders": 2,
+    "gross_sales": "1019,32",
+    "id": 5
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "New Jersey",
+    "orders": 46,
+    "gross_sales": "25353,5",
+    "id": 34
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Connecticut",
+    "orders": 29,
+    "gross_sales": "14832,45",
+    "id": 9
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Ciudad De MÃ©xico",
+    "orders": 1,
+    "gross_sales": "437,41",
+    "id": 6
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Nebraska",
+    "orders": 2,
+    "gross_sales": 565,
+    "id": 31
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "",
+    "orders": 168,
+    "gross_sales": "128336,83",
+    "id": "#N/A"
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Alberta",
+    "orders": 1,
+    "gross_sales": "617,42",
+    "id": 2
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "New York",
+    "orders": 130,
+    "gross_sales": "72322,2",
+    "id": 36
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Minnesota",
+    "orders": 6,
+    "gross_sales": 2361,
+    "id": 27
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Missouri",
+    "orders": 9,
+    "gross_sales": 4569,
+    "id": 29
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Ohio",
+    "orders": 14,
+    "gross_sales": 6482,
+    "id": 39
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Roma",
+    "orders": 1,
+    "gross_sales": "699,18",
+    "id": 44
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Wisconsin",
+    "orders": 2,
+    "gross_sales": 1014,
+    "id": 55
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "New Mexico",
+    "orders": 1,
+    "gross_sales": 375,
+    "id": 35
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Sinaloa",
+    "orders": 1,
+    "gross_sales": "540,84",
+    "id": 44
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Arkansas",
+    "orders": 2,
+    "gross_sales": 1131,
+    "id": 5
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Tennessee",
+    "orders": 8,
+    "gross_sales": "4240,2",
+    "id": 47
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Victoria",
+    "orders": 2,
+    "gross_sales": "879,96",
+    "id": 50
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Illinois",
+    "orders": 29,
+    "gross_sales": "14864,2",
+    "id": 17
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Mississippi",
+    "orders": 2,
+    "gross_sales": 1291,
+    "id": 28
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Louisiana",
+    "orders": 7,
+    "gross_sales": 4521,
+    "id": 22
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Kentucky",
+    "orders": 3,
+    "gross_sales": 1215,
+    "id": 21
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Michigan",
+    "orders": 13,
+    "gross_sales": 7778,
+    "id": 26
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "District Of Columbia",
+    "orders": 7,
+    "gross_sales": 4341,
+    "id": 11
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "England",
+    "orders": 8,
+    "gross_sales": "4994,78",
+    "id": 11
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Iowa",
+    "orders": 1,
+    "gross_sales": "760,75",
+    "id": 19
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Texas",
+    "orders": 100,
+    "gross_sales": "52597,95",
+    "id": 48
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Wyoming",
+    "orders": 1,
+    "gross_sales": 595,
+    "id": 55
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Maine",
+    "orders": 1,
+    "gross_sales": 346,
+    "id": 23
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "North Carolina",
+    "orders": 27,
+    "gross_sales": "13747,45",
+    "id": 37
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Oregon",
+    "orders": 5,
+    "gross_sales": "1726,25",
+    "id": 41
+  },
+  {
+    "month": "2023-11",
+    "shipping_region": "Nevada",
+    "orders": 5,
+    "gross_sales": 2738,
+    "id": 32
+  }
+]
